@@ -40,4 +40,4 @@ Lösung des Merge-Konflikts:
 
 Add und commit nach Lösung des Merge-Konflikts:
 
-![Alt-Text](/screenshots/solved_merge_conflict.PNG)
+![Alt-Text](/screenshots/solved_merge_commit.PNG)
