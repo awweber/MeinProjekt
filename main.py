@@ -1,1 +1,1 @@
-print("Mein Python-Projekt")
+print("Mein Python-Projekt für die Teilprüfung")
