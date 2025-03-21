@@ -1,1 +1,2 @@
-print("Mein Python-Projekt für die Teilprüfung")
+print("Mein Python-Projekt")
+print("Bearbeitung in main-branch")
